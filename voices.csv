@@ -1,0 +1,11 @@
+voice_id,elevenlabs_voice_id,display_name,voice_type
+voice_01,UgBBYS2sOqTuMpoF3BR0,mark,male_clear_neutral
+voice_02,56AoDkrOh6qfVPDXZ7Pt,cassidy,female_clear_neutral
+voice_03,DMyrgzQFny3JI1Y1paM5,donovan,male_deep_low_pitch
+voice_04,bMxLr8fP6hzNRRi9nJxU,ivanna,female_bright_high_pitch
+voice_05,Lt5FXOzLdO40mAK9bVsS,ryan,male_fast_conversational
+voice_06,DODLEQrClDo8wCz460ld,lauren,female_friendly
+voice_07,NOpBlnGInO9m6vDvFkFC,spuds,male_older_or_rough
+voice_08,aMSt68OGf4xUZAnLpTU8,juniper,female_warm_narrator
+voice_09,Fahco4VZzobUeiPqni1S,archer,male_british_accent
+voice_10,aCChyB4P5WEomwRsOKRh,salma,female_arabic_accent
