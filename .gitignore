@@ -2,8 +2,8 @@
 .env
 __pycache__/
 *.pyc
-data/
-metadata_clean.csv
+/data/
+/metadata_clean.csv
 site/node_modules/
 site/dist/
 site/*.log

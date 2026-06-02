@@ -1,0 +1,167 @@
+{
+  "generatedFrom": "asr_summary_sample.csv",
+  "rows": [
+    {
+      "noiseType": "cafe",
+      "snrDb": 20,
+      "meanWer": 0.017824603174603174,
+      "medianWer": 0.0,
+      "meanCer": 0.00647076837957658,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "cafe",
+      "snrDb": 10,
+      "meanWer": 0.026781746031746028,
+      "medianWer": 0.0,
+      "meanCer": 0.010414740248379949,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "cafe",
+      "snrDb": 5,
+      "meanWer": 0.05171349206349205,
+      "medianWer": 0.0,
+      "meanCer": 0.02430206043436261,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "cafe",
+      "snrDb": 0,
+      "meanWer": 0.19156349206349205,
+      "medianWer": 0.125,
+      "meanCer": 0.1115184763289957,
+      "medianCer": 0.048780487804878,
+      "n": 500
+    },
+    {
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "meanWer": 0.6221444444444444,
+      "medianWer": 0.5714285714285714,
+      "meanCer": 0.4270205115036186,
+      "medianCer": 0.35,
+      "n": 500
+    },
+    {
+      "noiseType": "cafe",
+      "snrDb": -10,
+      "meanWer": 1.0294055555555555,
+      "medianWer": 1.0,
+      "meanCer": 0.7961262757177063,
+      "medianCer": 0.783461210571185,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": 20,
+      "meanWer": 0.01700555555555555,
+      "medianWer": 0.0,
+      "meanCer": 0.00601784007880036,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": 10,
+      "meanWer": 0.02066349206349206,
+      "medianWer": 0.0,
+      "meanCer": 0.008032451248085631,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": 5,
+      "meanWer": 0.03127857142857142,
+      "medianWer": 0.0,
+      "meanCer": 0.012985444889530507,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": 0,
+      "meanWer": 0.0728142857142857,
+      "medianWer": 0.0,
+      "meanCer": 0.03704323407556451,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": -5,
+      "meanWer": 0.29364206349206345,
+      "medianWer": 0.1428571428571428,
+      "meanCer": 0.17820357820653215,
+      "medianCer": 0.0789473684210526,
+      "n": 500
+    },
+    {
+      "noiseType": "fan",
+      "snrDb": -10,
+      "meanWer": 0.7272634920634921,
+      "medianWer": 0.775,
+      "meanCer": 0.5130384553422516,
+      "medianCer": 0.5,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": 20,
+      "meanWer": 0.01675555555555555,
+      "medianWer": 0.0,
+      "meanCer": 0.0060599847570343935,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": 10,
+      "meanWer": 0.016453174603174598,
+      "medianWer": 0.0,
+      "meanCer": 0.005862639812556661,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": 5,
+      "meanWer": 0.020848412698412696,
+      "medianWer": 0.0,
+      "meanCer": 0.007857236476423297,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": 0,
+      "meanWer": 0.0344063492063492,
+      "medianWer": 0.0,
+      "meanCer": 0.014348216888614807,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": -5,
+      "meanWer": 0.0666468253968254,
+      "medianWer": 0.0,
+      "meanCer": 0.035216550768525416,
+      "medianCer": 0.0,
+      "n": 500
+    },
+    {
+      "noiseType": "traffic",
+      "snrDb": -10,
+      "meanWer": 0.2543936507936508,
+      "medianWer": 0.125,
+      "meanCer": 0.16430006067081118,
+      "medianCer": 0.0697674418604651,
+      "n": 500
+    }
+  ]
+}

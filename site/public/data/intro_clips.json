@@ -1,0 +1,253 @@
+{
+  "clean": {
+    "clipId": "voice_01_s001_clean",
+    "voiceId": "voice_01",
+    "sentenceId": "s001",
+    "displayName": "mark",
+    "transcript": "The package arrived before noon.",
+    "audioPath": "audio-demo/voice_01_s001_clean.mp3"
+  },
+  "noisy": {
+    "clipId": "voice_07_s035_cafe_-5db",
+    "voiceId": "voice_07",
+    "sentenceId": "s035",
+    "noiseType": "cafe",
+    "snrDb": -5,
+    "transcript": "He checked the map before leaving the hotel.",
+    "audioPath": "audio-demo/voice_07_s035_cafe_-5db.wav",
+    "whisperPrediction": "He checked the man.",
+    "whisperWer": 0.625
+  },
+  "cleanOptions": [
+    {
+      "clipId": "voice_01_s001_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s001",
+      "displayName": "mark",
+      "transcript": "The package arrived before noon.",
+      "audioPath": "audio-demo/voice_01_s001_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s002_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s002",
+      "displayName": "mark",
+      "transcript": "She forgot her notebook at the library.",
+      "audioPath": "audio-demo/voice_01_s002_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s003_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s003",
+      "displayName": "mark",
+      "transcript": "The orange jacket was hanging near the stairs.",
+      "audioPath": "audio-demo/voice_01_s003_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s004_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s004",
+      "displayName": "mark",
+      "transcript": "Please confirm the meeting before Friday.",
+      "audioPath": "audio-demo/voice_01_s004_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s005_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s005",
+      "displayName": "mark",
+      "transcript": "I heard thunder while walking across campus.",
+      "audioPath": "audio-demo/voice_01_s005_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s006_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s006",
+      "displayName": "mark",
+      "transcript": "The train stopped suddenly near the station.",
+      "audioPath": "audio-demo/voice_01_s006_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s007_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s007",
+      "displayName": "mark",
+      "transcript": "He placed the coffee mug beside the window.",
+      "audioPath": "audio-demo/voice_01_s007_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s008_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s008",
+      "displayName": "mark",
+      "transcript": "The camera battery died during the concert.",
+      "audioPath": "audio-demo/voice_01_s008_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s009_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s009",
+      "displayName": "mark",
+      "transcript": "We ordered soup and bread for lunch.",
+      "audioPath": "audio-demo/voice_01_s009_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s010_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s010",
+      "displayName": "mark",
+      "transcript": "The lights flickered when the storm began.",
+      "audioPath": "audio-demo/voice_01_s010_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s011_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s011",
+      "displayName": "mark",
+      "transcript": "My neighbor painted the fence bright blue.",
+      "audioPath": "audio-demo/voice_01_s011_clean.mp3"
+    },
+    {
+      "clipId": "voice_01_s012_clean",
+      "voiceId": "voice_01",
+      "sentenceId": "s012",
+      "displayName": "mark",
+      "transcript": "The students waited quietly outside the classroom.",
+      "audioPath": "audio-demo/voice_01_s012_clean.mp3"
+    }
+  ],
+  "noisyOptions": [
+    {
+      "clipId": "voice_10_s001_cafe_-5db",
+      "voiceId": "voice_10",
+      "sentenceId": "s001",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The package arrived before noon.",
+      "audioPath": "audio-demo/voice_10_s001_cafe_-5db.wav",
+      "whisperPrediction": "the package right before you go.",
+      "whisperWer": 0.6
+    },
+    {
+      "clipId": "voice_07_s035_cafe_-5db",
+      "voiceId": "voice_07",
+      "sentenceId": "s035",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "He checked the map before leaving the hotel.",
+      "audioPath": "audio-demo/voice_07_s035_cafe_-5db.wav",
+      "whisperPrediction": "He checked the man.",
+      "whisperWer": 0.625
+    },
+    {
+      "clipId": "voice_08_s012_cafe_-5db",
+      "voiceId": "voice_08",
+      "sentenceId": "s012",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The students waited quietly outside the classroom.",
+      "audioPath": "audio-demo/voice_08_s012_cafe_-5db.wav",
+      "whisperPrediction": "Students waiting quietly outside the lands road.",
+      "whisperWer": 0.5714285714285714
+    },
+    {
+      "clipId": "voice_08_s028_cafe_-5db",
+      "voiceId": "voice_08",
+      "sentenceId": "s028",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The bus driver waited at the corner.",
+      "audioPath": "audio-demo/voice_08_s028_cafe_-5db.wav",
+      "whisperPrediction": "The most driver-weightman in the world.",
+      "whisperWer": 0.5714285714285714
+    },
+    {
+      "clipId": "voice_03_s025_cafe_-5db",
+      "voiceId": "voice_03",
+      "sentenceId": "s025",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "We heard music coming from the upstairs apartment.",
+      "audioPath": "audio-demo/voice_03_s025_cafe_-5db.wav",
+      "whisperPrediction": "The track music coming from the upstairs are coming.",
+      "whisperWer": 0.5
+    },
+    {
+      "clipId": "voice_10_s041_cafe_-5db",
+      "voiceId": "voice_10",
+      "sentenceId": "s041",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "He turned off the alarm before going outside.",
+      "audioPath": "audio-demo/voice_10_s041_cafe_-5db.wav",
+      "whisperPrediction": "He turned off the alarm before enabling close-knit break.",
+      "whisperWer": 0.5
+    },
+    {
+      "clipId": "voice_10_s046_cafe_-5db",
+      "voiceId": "voice_10",
+      "sentenceId": "s046",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The car engine started after a few tries.",
+      "audioPath": "audio-demo/voice_10_s046_cafe_-5db.wav",
+      "whisperPrediction": "The car indexed out after a long time.",
+      "whisperWer": 0.5
+    },
+    {
+      "clipId": "voice_01_s010_cafe_-5db",
+      "voiceId": "voice_01",
+      "sentenceId": "s010",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The lights flickered when the storm began.",
+      "audioPath": "audio-demo/voice_01_s010_cafe_-5db.wav",
+      "whisperPrediction": "lights for everybody's door began.",
+      "whisperWer": 0.7142857142857143
+    },
+    {
+      "clipId": "voice_10_s048_cafe_-5db",
+      "voiceId": "voice_10",
+      "sentenceId": "s048",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The glass bottle rolled under the table.",
+      "audioPath": "audio-demo/voice_10_s048_cafe_-5db.wav",
+      "whisperPrediction": "Nice hotter roll down to the table.",
+      "whisperWer": 0.7142857142857143
+    },
+    {
+      "clipId": "voice_08_s007_cafe_-5db",
+      "voiceId": "voice_08",
+      "sentenceId": "s007",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "He placed the coffee mug beside the window.",
+      "audioPath": "audio-demo/voice_08_s007_cafe_-5db.wav",
+      "whisperPrediction": "Place the coffee lovers' migraine.",
+      "whisperWer": 0.75
+    },
+    {
+      "clipId": "voice_03_s005_cafe_-5db",
+      "voiceId": "voice_03",
+      "sentenceId": "s005",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "I heard thunder while walking across campus.",
+      "audioPath": "audio-demo/voice_03_s005_cafe_-5db.wav",
+      "whisperPrediction": "I heard thunder walking across the house.",
+      "whisperWer": 0.42857142857142855
+    },
+    {
+      "clipId": "voice_02_s024_cafe_-5db",
+      "voiceId": "voice_02",
+      "sentenceId": "s024",
+      "noiseType": "cafe",
+      "snrDb": -5,
+      "transcript": "The red bicycle leaned against the brick wall.",
+      "audioPath": "audio-demo/voice_02_s024_cafe_-5db.wav",
+      "whisperPrediction": "the Red Bicycle Lean Against the Print War.",
+      "whisperWer": 0.375
+    }
+  ]
+}
